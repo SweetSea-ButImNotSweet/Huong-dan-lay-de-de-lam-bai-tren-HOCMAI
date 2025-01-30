@@ -1,0 +1,63 @@
+# Hướng dẫn lấy đề của buổi học trực tiếp trên HOCMAI
+Một hướng dẫn cách lấy đề trên HOCMAI, viết bởi SweetSea, nhằm giải quyết triệt để luôn tình trạng bát nháo "Đề đâu?", "Sao không có đề", "WTF sao HOCMAI không up đề lên từ trước?!?!?!", ...
+
+***DISCLAIMER/TUYÊN BỐ TỪ CHỐI TRÁCH NHIỆM***:
+- Đây là một hướng dẫn được viết bởi SweetSea, **một học viên tại HOCMAI**.
+- SweetSea **không phải là nhân viên** của HOCMAI, cũng **không giữ bất kỳ vai trò nào** tại HOCMAI, dù là nhân viên hay tình nguyện viên.
+- Hướng dẫn này chỉ nhằm giải đáp câu hỏi `Tìm tài liệu của buổi học trực tuyến ở đâu vậy?`. Đối với những vấn đề ngoài việc tìm tài liệu của buổi học, **SweetSea không có trách nhiệm hay nghĩa vụ giải đáp thắc mắc của các bạn**.
+- **Giao diện của HOCMAI có thể thay đổi theo thời gian** do tính linh hoạt của phần mềm, nên trong tương lai, hướng dẫn này **có thể không còn phản ánh chính xác** giao diện HOCMAI tại thời điểm bạn đọc. SweetSea **không có nghĩa vụ cập nhật hướng dẫn này thường xuyên hay theo dõi sát mọi thay đổi**. Nếu bạn đã quen với cách sử dụng HOCMAI, bạn có thể tải về hướng dẫn này và tự chỉnh sửa để phù hợp với giao diện mới nhất.
+
+> Lần cuối cập nhật: 30/1/2025
+
+# Hướng dẫn
+1. Vào https://topuni.hocmai.vn, xong rồi điền số điện thoại của bạn vào. Sau khi truy cập, các bạn sẽ được lịch học của mình như sau: \
+    ![H1](H1.png)
+2. Xem lịch và chọn buổi bạn sẽ học tiếp theo là buổi nào
+    - **GIẢ SỬ** hôm nay là thứ 6, ngày 3/1/2025, và mình muốn học buổi `Toán_V-ACT25_Luyện đề 01` đi.
+    - ***2 LƯU Ý QUAN TRỌNG***
+      - Mỗi bạn sẽ có lịch học khác nhau, hãy tra lịch và sắp xếp làm sao để bạn có thể học một cách thuận tiện nhất
+      - Hình ở trên là làm mẫu, các bạn có thể không học khóa Luyện đề iLive V-ACT mà học khóa Luyện đề khác. Áp dụng tương đương
+3. Vào trang chủ của HOCMAI (https://hocmai.vn), đăng nhập bằng thông tin mà các anh/chị tư vấn đã gửi cho các bạn ngay sau khi đăng ký
+4.  - Sau khi các bạn đăng nhập xong, chọn `Khóa học của tôi` ở thanh điều hướng \
+    ![H2](H2.png)
+    - Các bạn sẽ thấy tất cả khóa học như này \
+    ![H3](H3.png)
+5. Ở đây, các bạn sẽ chọn môn các bạn cần lấy đề, những "khóa" nào có chữ **`Luyện đề`** tức là những "khóa" chứa đề bên trong (đồng thời cũng chứa video để xem lại cho những bài đã qua 10 ngày kể từ buổi chiếu đầu tiên). Ví dụ như hình sau, với những "khóa" chứa đề đã được khoanh đỏ \
+    ![H4](H4.png) \
+    Như ví dụ ở trên, mình sẽ chọn khóa thứ 3 từ trên xuống dưới
+6.  - Ở thời điểm này, các bạn sẽ nhìn thấy trang như này \
+    ![H5](H5.png)
+    - Tuy nhiên, với một số bạn, nhất là những bạn học buổi đầu, các bạn sẽ gặp trang này: \
+    ![H6](H6.png)
+    - Các bạn hãy nhấn vào nút `Đề cương khóa học`, là nút thứ 2 trong 4 nút ở phía bên dưới dòng chữ `Vui lòng không chia sẻ tài khoản cho người khác. Tài khoản vi phạm sẽ bị khóa vĩnh viễn.` Nếu làm đúng, trình duyệt sẽ tự trượt trang tới đây: \
+    ![H7](H7.png)
+    - Từ đoạn này các bạn có thể bỏ qua 4 mục đầu tiên (có thể thôi nhá, nếu muốn thì cứ xem). Phần đó là hướng dẫn và các liên kết quan trọng mà HOCMAI gửi các bạn.
+    - Sau khi trượt xuống, các bạn sẽ có thể tìm thấy bài mình cần lấy. Như ví dụ mình đang đặt: \
+    ![H8](H8.png)
+7.  - Chọn bài mà các bạn vừa tìm thấy ở bước vừa rồi. Các bạn sẽ thấy trang sau, vùng mình bôi đỏ chính là nơi lấy tài liệu về: \
+    ![H9](H9.png)
+    - Thường sẽ có 3 liên kết:
+      - Nhiệm vụ trước buổi học: Đề live - đề mà giáo viên sẽ sửa trong buổi live hôm đó
+      - Nhiệm vụ sau buổi học: Đề luyện - sau khi học xong các bạn làm đề này để tự luyện
+      - Tài liệu live / Tài liệu bài giảng: Đề live, nhưng là file PDF thay vì làm tực tiếp, để tiện lợi cho các bạn khi các bạn cần in đề ra làm trên giấy
+    - ***LƯU Ý!***:
+      - Một số môn có thể có 2 hoặc 3 liên kết, và các liên kết này có thể đổi tên. Nhưng thường sẽ gần giống như bên trên
+      - Trừ liên kết thứ 3, 2 liên kết kia sẽ chuyển hướng các bạn vào phòng luyện của HOCMAI. Nếu các bạn bị yêu cầu hỏi đăng nhập tài khoản, cứ chọn `Đăng nhập`, phòng luyện sẽ dùng tài khoản từ hệ thống HOCMAI chính (https://hocmai.vn) để đăng nhập. Sau khi đăng nhập xong, nếu các bạn bị chuyển hướng lại về trang chủ của phòng luyện thì hãy vào lại liên kết từ đầu Bước 7.
+      - Một vài trường hợp nếu gặp lỗi truy cập đề, hãy báo lại bên CSKH của HOCMAI.
+
+# Thông tin liên hệ
+- Mọi câu hỏi không liên quan tới hướng dẫn, xin gửi về HOCMAI:
+  - Zalo CSKH: https://zalo.me/3717827759646460602
+  - Hotline: 1900 69 33 (có thể check lại ở trang chủ của HOCMAI)
+  - Email: hotro@hocmai.vn
+  - Hoặc liên hệ với chủ nhóm Zalo của khóa học tương ứng
+- Đối với hướng dẫn này
+  - Discord: `sweetsea`
+    - ***YÊU CẦU:***
+      - Chụp lại trang này và gửi kèm khi gửi câu hỏi về cho mình.
+      - Chỉ gửi khi các bạn thật sự thắc mắc, nghiêm cấm troll khi hỏi
+      - Đặt câu hỏi vào thẳng vấn đề chứ không chỉ nhắn mỗi `Hi!` hoặc `Xin chào` hoặc `Cho mình hỏi câu này được không?`
+  - Nhóm trao đổi/chụp bài/hỗ trợ việc học (Discord, không phải của HOCMAI): `U3fTtjbXvG`
+
+# Ghi chú
+- Hình 6 và 7 không phản ánh thời điểm đang được đề cập trong ví dụ của mình dùng, do được chụp sau hơn 3 tháng từ thời điểm đó. Tuy nhiên, việc sai lệch này không ảnh hưởng tới nội dung hướng dẫn
