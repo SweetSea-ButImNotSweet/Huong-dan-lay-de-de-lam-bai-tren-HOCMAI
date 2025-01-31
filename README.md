@@ -7,7 +7,7 @@ Một hướng dẫn cách lấy đề trên HOCMAI, viết bởi SweetSea, nh�
   - "Đề đâu hả mn ơi?! Tui làm theo hướng dẫn rồi mà không thấy tài liệu, SOS!"
   - ...
 
-> Lần cuối cập nhật: 31/1/2025
+> Lần cuối cập nhật: 31/1/2025, viết bởi SweetSea
 
 ***DISCLAIMER/TUYÊN BỐ TỪ CHỐI TRÁCH NHIỆM***:
 - Đây là một hướng dẫn được viết bởi SweetSea, **một học viên tại HOCMAI**.
@@ -64,9 +64,14 @@ Thì đây là vài thứ linh tinh các bạn có thể cũng nên biết:
 - Hướng dẫn này cũng có thể áp dụng tương tự với các khóa iLive, và các khóa luyện đề khác trên HOCMAI
 - Ở mỗi buổi live, các bạn cũng có thể thấy link đề tương ứng với mỗi buổi live
   > P/s: mình có ghi nhận là có vài trường hợp link ở dưới buổi live bị sai, cứ vào khóa iLive lấy file cho chắc ăn
-- Nếu có thắc mắc về hướng dẫn này, hãy nhắn tin riêng cho mình, thông tin để ở bên dưới
+- Các bạn được quyền phân phối lại hướng dẫn này. Tuy nhiên:
+  - Nếu có chỉnh sửa, các bạn **BẮT BUỘC** phải thay thông tin liên hệ của mình bằng thông tin liên hệ của các bạn.
+  - Nghiêm cấm hành vi mạo danh tác giả ban đầu.
+  - Các bạn có thể lựa chọn có hay không việc ghi công tác giả ban đầu, nhưng mình khuyến khích các bạn ghi nếu có thể
+  - Mình không để giấy phép vì không muốn gây khó dễ cho các bạn khi chỉnh sửa hướng dẫn này, nhưng làm ơn, hãy là một người có đạo đức và hãy sử dụng "the best sense" của các bạn để hành động sao cho phải.
 - Hiện tại tui chấp nhận nhận Pull Request, khuyến khích các bạn trong tương lai nếu rành cách sử dụng trang web HOCMAI thì hãy gửi mình file update
-- Và cuối cùng, các kênh CSKH của HOCMAI không phải chỉ để cho chơi, họ có thực sự nhận và đọc tin nhắn và câu hỏi các bạn gửi về; làm ơn tối thiểu nếu gặp vấn đề gì, thì nhắn họ một tiếng chứ! (Nếu không biết đặt câu hỏi như nào cho đúng, thì ChatGPT và Gemini hân hạnh tài trợ chương trình này)
+- Mọi câu hỏi về hướng dẫn này, hãy nhắn tin riêng cho mình, thông tin để ở bên dưới
+- Và cuối cùng, các kênh CSKH của HOCMAI không phải chỉ để cho chơi. Những thắc mắc ngoài phạm vi của hướng dẫn này mình không trả lời, các bạn hãy mạnh dạn gửi câu hỏi của mình về bộ phận CSKH của HOCMAI. (Nếu không biết đặt câu hỏi như nào cho đúng, thì ChatGPT và Gemini hân hạnh tài trợ chương trình này)
 
 # Thông tin liên hệ
 - Mọi câu hỏi không liên quan tới hướng dẫn, xin gửi về HOCMAI:
