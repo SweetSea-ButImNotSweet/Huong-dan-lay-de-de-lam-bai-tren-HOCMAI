@@ -17,10 +17,13 @@ Một hướng dẫn cách lấy đề trên HOCMAI, viết bởi SweetSea, nh�
 
 > fork: tạo ra một bản sao độc lập của một repo (kho mã nguồn) từ một repo gốc. Mục đích là để chỉnh sửa hoặc phát triển mà không làm ảnh hưởng đến repo gốc. Nó giống như việc "mượn" repo của người khác để làm việc riêng của mình, và sau đó có thể gửi lại các thay đổi nếu muốn.
 
+---
+
 # Hướng dẫn
 1. Vào https://topuni.hocmai.vn, điền số điện thoại của bạn vào. Sau khi truy cập, các bạn sẽ được lịch học của mình như sau: \
     ![H1](images/H1.png)
     > **GIẢ SỬ** hôm nay là thứ 6, ngày 3/1/2025, và mình muốn học buổi `Toán_V-ACT25_Luyện đề 01` (welp mình chọn khóa nào là tùy mình)
+    ---
 2. Xem lịch và chọn buổi bạn sẽ học tiếp theo là buổi nào
     - ***LƯU Ý QUAN TRỌNG***
       - Mỗi bạn sẽ có lịch học khác nhau, hãy tra lịch và sắp xếp làm sao để bạn có thể học một cách thuận tiện nhất
@@ -58,6 +61,12 @@ Một hướng dẫn cách lấy đề trên HOCMAI, viết bởi SweetSea, nh�
       - Nếu lỗi đề (file không tồn tại, sai đề, ...), hãy báo lại bên CSKH của HOCMAI.
 
 # Nếu bạn đã đọc đến đây rồi
+***Nếu vẫn ~`KHÔNG THẤY`~ đề?!***
+- Thử làm lại từ đầu xem? Biết đâu mình làm nhầm bước nào thì sao?
+- Có vào đúng lớp không? Trường hợp bạn học ôn thi cho đề V-ACT nhưng lại vào nhầm lớp HSA *(mình từng bị một lần rồi)*
+  - Hãy xem lại lịch live và tên buổi live nha, có thể bạn đang bị đấy!
+- ***TRƯỜNG HỢP CUỐI CÙNG, BẤT KHẢ THI NHẤT***: ***~`ĐỀ CHƯA ĐƯỢC UP LÊN`~***, liên hệ CSKH của HOCMAI, bạn không thể làm gì được ở bước này nữa.
+
 Thì đây là vài thứ linh tinh các bạn có thể cũng nên biết:
 - Hãy lưu lại link này để bạn có thể share cho những đứa mù mờ cách lấy tài liệu live
 - Hướng dẫn này có thể áp dụng cho những bạn nào cần tìm lại file live ***(luôn nhớ, bạn chỉ có thể xem file record của HOCMAI sau 7 ngày tính từ lần live đầu tiên)***, các bạn chỉ cần làm tới bước 6 của hướng dẫn này là hoàn thành
@@ -89,4 +98,7 @@ Thì đây là vài thứ linh tinh các bạn có thể cũng nên biết:
 
 # Ghi chú
 - Hình 6 và 7 không phản ánh thời điểm đang được đề cập trong ví dụ của mình dùng, do được chụp sau hơn 3 tháng từ thời điểm đó. Tuy nhiên, việc sai lệch này không ảnh hưởng tới nội dung hướng dẫn
-- 31/12/2025: Bổ sung mục `Nếu bạn đã đọc đến đây rồi` và `Điều kiện chỉnh sửa`
+
+# Nhật kí thay đổi
+- `31/12/2025`: Bổ sung mục `Nếu bạn đã đọc đến đây rồi` và `Điều kiện chỉnh sửa`
+- ` 3/ 2/2025`: Thêm mục `Nếu không thấy đề?!?!?!`
