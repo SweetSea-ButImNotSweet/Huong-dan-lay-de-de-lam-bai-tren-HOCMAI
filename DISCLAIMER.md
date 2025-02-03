@@ -1,0 +1,7 @@
+***DISCLAIMER/TUYÊN BỐ TỪ CHỐI TRÁCH NHIỆM***:
+- Đây là một hướng dẫn được viết bởi SweetSea, **một học viên tại HOCMAI**.
+- SweetSea **không phải là nhân viên** của HOCMAI, cũng **không giữ bất kỳ vai trò nào** tại HOCMAI, dù là nhân viên hay tình nguyện viên.
+- Hướng dẫn này chỉ nhằm giải đáp câu hỏi `Tìm tài liệu của buổi học trực tuyến ở đâu vậy?`. Đối với những vấn đề ngoài phạm vi của hướng dẫn này, **SweetSea không có trách nhiệm hay nghĩa vụ giải đáp thắc mắc của các bạn**.
+- **Giao diện của HOCMAI có thể thay đổi theo thời gian** do tính linh hoạt của phần mềm, nên trong tương lai, hướng dẫn này **có thể không còn phản ánh chính xác** giao diện HOCMAI tại thời điểm bạn đọc. SweetSea **không có nghĩa vụ cập nhật hướng dẫn này thường xuyên hay theo dõi sát mọi thay đổi**. Nếu bạn đã quen với cách sử dụng HOCMAI, bạn có thể tải về/fork(*) hướng dẫn này và tự chỉnh sửa để phù hợp với giao diện mới nhất.
+
+> fork: tạo ra một bản sao độc lập của một repo (kho mã nguồn) từ một repo gốc. Mục đích là để chỉnh sửa hoặc phát triển mà không làm ảnh hưởng đến repo gốc. Nó giống như việc "mượn" repo của người khác để làm việc riêng của mình, và sau đó có thể gửi lại các thay đổi nếu muốn.

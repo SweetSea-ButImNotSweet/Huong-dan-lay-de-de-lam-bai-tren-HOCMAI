@@ -7,15 +7,11 @@ Một hướng dẫn cách lấy đề trên HOCMAI, viết bởi SweetSea, nh�
   - "Đề đâu hả mn ơi?! Tui làm theo hướng dẫn rồi mà không thấy tài liệu, SOS!"
   - ...
 
-> Lần cuối cập nhật: 31/1/2025, viết bởi SweetSea
+> Lần cuối cập nhật: 3/2/2025, viết bởi SweetSea
 
-***DISCLAIMER/TUYÊN BỐ TỪ CHỐI TRÁCH NHIỆM***:
-- Đây là một hướng dẫn được viết bởi SweetSea, **một học viên tại HOCMAI**.
-- SweetSea **không phải là nhân viên** của HOCMAI, cũng **không giữ bất kỳ vai trò nào** tại HOCMAI, dù là nhân viên hay tình nguyện viên.
-- Hướng dẫn này chỉ nhằm giải đáp câu hỏi `Tìm tài liệu của buổi học trực tuyến ở đâu vậy?`. Đối với những vấn đề ngoài phạm vi của hướng dẫn này, **SweetSea không có trách nhiệm hay nghĩa vụ giải đáp thắc mắc của các bạn**.
-- **Giao diện của HOCMAI có thể thay đổi theo thời gian** do tính linh hoạt của phần mềm, nên trong tương lai, hướng dẫn này **có thể không còn phản ánh chính xác** giao diện HOCMAI tại thời điểm bạn đọc. SweetSea **không có nghĩa vụ cập nhật hướng dẫn này thường xuyên hay theo dõi sát mọi thay đổi**. Nếu bạn đã quen với cách sử dụng HOCMAI, bạn có thể tải về/fork(*) hướng dẫn này và tự chỉnh sửa để phù hợp với giao diện mới nhất.
-
-> fork: tạo ra một bản sao độc lập của một repo (kho mã nguồn) từ một repo gốc. Mục đích là để chỉnh sửa hoặc phát triển mà không làm ảnh hưởng đến repo gốc. Nó giống như việc "mượn" repo của người khác để làm việc riêng của mình, và sau đó có thể gửi lại các thay đổi nếu muốn.
+| [DISCLAIMER](DISCLAIMER.md) | Lời tuyên bố từ chối trách nhiệm                              |
+| --------------------------- | ------------------------------------------------------------- |
+| [SOS](SOS.md)               | Đọc cái này nếu như bạn gặp vấn đề trong/sau khi đọc trợ giúp |
 
 ---
 
@@ -61,13 +57,9 @@ Một hướng dẫn cách lấy đề trên HOCMAI, viết bởi SweetSea, nh�
       - Nếu lỗi đề (file không tồn tại, sai đề, ...), hãy báo lại bên CSKH của HOCMAI.
 
 # Nếu bạn đã đọc đến đây rồi
-***Nếu vẫn ~`KHÔNG THẤY`~ đề?!***
-- Thử làm lại từ đầu xem? Biết đâu mình làm nhầm bước nào thì sao?
-- Có vào đúng lớp không? Trường hợp bạn học ôn thi cho đề V-ACT nhưng lại vào nhầm lớp HSA *(mình từng bị một lần rồi)*
-  - Hãy xem lại lịch live và tên buổi live nha, có thể bạn đang bị đấy!
-- ***TRƯỜNG HỢP CUỐI CÙNG, BẤT KHẢ THI NHẤT***: ***~`ĐỀ CHƯA ĐƯỢC UP LÊN`~***, liên hệ CSKH của HOCMAI, bạn không thể làm gì được ở bước này nữa.
 
-Thì đây là vài thứ linh tinh các bạn có thể cũng nên biết:
+
+Vài thứ linh tinh các bạn có thể cũng nên biết:
 - Hãy lưu lại link này để bạn có thể share cho những đứa mù mờ cách lấy tài liệu live
 - Hướng dẫn này có thể áp dụng cho những bạn nào cần tìm lại file live ***(luôn nhớ, bạn chỉ có thể xem file record của HOCMAI sau 7 ngày tính từ lần live đầu tiên)***, các bạn chỉ cần làm tới bước 6 của hướng dẫn này là hoàn thành
 - Hướng dẫn này cũng có thể áp dụng tương tự với các khóa iLive, và các khóa luyện đề khác trên HOCMAI
@@ -101,4 +93,4 @@ Thì đây là vài thứ linh tinh các bạn có thể cũng nên biết:
 
 # Nhật kí thay đổi
 - `31/12/2025`: Bổ sung mục `Nếu bạn đã đọc đến đây rồi` và `Điều kiện chỉnh sửa`
-- ` 3/ 2/2025`: Thêm mục `Nếu không thấy đề?!?!?!`
+- ` 3/ 2/2025`: Thêm mục `Nếu không thấy đề?!?!?!` và di chuyển vài mục sang các file riêng
