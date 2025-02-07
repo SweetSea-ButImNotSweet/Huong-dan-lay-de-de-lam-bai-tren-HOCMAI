@@ -50,7 +50,7 @@ Hiện tại có 2 cách lấy đề, từ trang `Khóa học của tôi`, hoặ
     - Các bạn sẽ thấy tất cả khóa học như này \
     ![H3](images/H3.png)
 3. Ở đây, các bạn sẽ chọn môn các bạn cần lấy đề, những "khóa" nào có chữ **`Luyện đề`** tức là những "khóa" chứa đề bên trong (đồng thời cũng chứa video để xem lại cho những bài đã qua 10 ngày kể từ buổi chiếu đầu tiên). Ví dụ như hình sau, với những "khóa" chứa đề đã được khoanh đỏ \
-    ![H4](images/H4.png) \
+    <img src="images/H4.png" width=75%> \
     Như ví dụ ở trên, mình sẽ chọn khóa thứ 3 từ trên xuống dưới
 4.  - Ở thời điểm này, các bạn sẽ nhìn thấy trang như này \
     ![H5](images/H5.png)

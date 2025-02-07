@@ -6,7 +6,7 @@
   - Hoặc liên hệ với chủ nhóm Zalo của khóa học tương ứng
 - Đối với hướng dẫn này
   - Discord: `sweetsea`
-  - Zalo: Chỉ nhắn qua Zalo nếu các bạn không dùng Discord. Mở Zalo, nhấn dấu `+` bên góc trên phải màn hình và nhấn `Quét mã QR`. Nếu trên cùng điện thoại, các bạn có thể lưu ảnh mã QR bên dưới lại, rồi khi tới bước quét mã QR, các bạn chọn mã QR từ ảnh. Bên dưới là danh thiếp Zalo của mình: <br> ![zalo](images/Zalo.png)
+  - Zalo: Chỉ nhắn qua Zalo nếu các bạn không dùng Discord. Mở Zalo, nhấn dấu `+` bên góc trên phải màn hình và nhấn `Quét mã QR`. Nếu trên cùng điện thoại, các bạn có thể lưu ảnh mã QR bên dưới lại, rồi khi tới bước quét mã QR, các bạn chọn mã QR từ ảnh. Bên dưới là danh thiếp Zalo của mình: <br> <img src="images/Zalo.png" width=350>
     - ***YÊU CẦU:***
       - Chỉ nhắn tin khi cần, và suy nghĩ kĩ trước khi nhắn. **NGHIÊM CẤM troll, spam, quảng cáo, nhắn linh tinh, gọi bừa bãi, ...**
       - Đặt câu hỏi vào thẳng vấn đề chứ không chỉ nhắn mỗi `Hi!` hoặc `Xin chào` hoặc `Cho mình hỏi câu này được không?`
