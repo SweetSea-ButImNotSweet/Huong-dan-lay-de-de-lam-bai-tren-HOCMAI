@@ -10,8 +10,9 @@ Một hướng dẫn cách lấy đề trên HOCMAI, viết bởi SweetSea, nh�
 > Lần cuối cập nhật: 3/2/2025, viết bởi SweetSea
 
 | [DISCLAIMER](DISCLAIMER.md) | Lời tuyên bố từ chối trách nhiệm                              |
-| --------------------------- | ------------------------------------------------------------- |
+| --------------------------- | :------------------------------------------------------------ |
 | [SOS](SOS.md)               | Đọc cái này nếu như bạn gặp vấn đề trong/sau khi đọc trợ giúp |
+| [LIÊN HỆ](#thông-tin-liên-hệ) | Liên hệ bên HOCMAI hoặc mình
 
 ---
 
@@ -70,7 +71,7 @@ Vài thứ linh tinh các bạn có thể cũng nên biết:
   - Nghiêm cấm hành vi mạo danh tác giả ban đầu.
   - Các bạn có thể lựa chọn có hay không việc ghi công tác giả ban đầu, nhưng mình khuyến khích các bạn ghi nếu có thể
   - Mình không để giấy phép vì không muốn gây khó dễ cho các bạn khi chỉnh sửa hướng dẫn này, nhưng làm ơn, hãy là một người có đạo đức và hãy sử dụng "the best sense" của các bạn để hành động sao cho phải.
-- Hiện tại tui chấp nhận nhận Pull Request, khuyến khích các bạn trong tương lai nếu rành cách sử dụng trang web HOCMAI thì hãy gửi mình file update
+- Hiện tại mình chấp nhận nhận Pull Request, khuyến khích các bạn trong tương lai nếu rành cách sử dụng trang web HOCMAI thì hãy gửi mình file update
 - Mọi câu hỏi về hướng dẫn này, hãy nhắn tin riêng cho mình, thông tin để ở bên dưới
 - Và cuối cùng, các kênh CSKH của HOCMAI không phải chỉ để cho chơi. Những thắc mắc ngoài phạm vi của hướng dẫn này mình không trả lời, các bạn hãy mạnh dạn gửi câu hỏi của mình về bộ phận CSKH của HOCMAI. (Nếu không biết đặt câu hỏi như nào cho đúng, thì ChatGPT và Gemini hân hạnh tài trợ chương trình này)
 
@@ -86,7 +87,7 @@ Vài thứ linh tinh các bạn có thể cũng nên biết:
       - Chụp lại trang này và gửi kèm khi gửi câu hỏi về cho mình.
       - Chỉ gửi khi các bạn thật sự thắc mắc, nghiêm cấm troll khi hỏi
       - Đặt câu hỏi vào thẳng vấn đề chứ không chỉ nhắn mỗi `Hi!` hoặc `Xin chào` hoặc `Cho mình hỏi câu này được không?`
-  - Nhóm trao đổi/chụp bài/hỗ trợ việc học (Discord, không phải của HOCMAI): `U3fTtjbXvG`
+  - Nhóm trao đổi/chụp bài/hỗ trợ việc học (KHÔNG PHẢI CỦA HOCMAI): [Máy chủ Discord](https://discord.gg/U3fTtjbXvG)
 
 # Ghi chú
 - Hình 6 và 7 không phản ánh thời điểm đang được đề cập trong ví dụ của mình dùng, do được chụp sau hơn 3 tháng từ thời điểm đó. Tuy nhiên, việc sai lệch này không ảnh hưởng tới nội dung hướng dẫn
